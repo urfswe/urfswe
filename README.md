@@ -17,7 +17,7 @@ and AI applications with real-world deployment and infrastructure.
 
 - 🤖 **AI-powered applications** with LLMs, RAG, embeddings, and local inference
 - ⚡ **FastAPI backends** with PostgreSQL, SQLAlchemy, Alembic, and Docker
-- 📱 **React Native applications** for web and mobile
+- 📱 **React Native applications** for ios and android
 - 🏗️ **Production infrastructure** with Docker, Nginx, Linux, Tailscale, and GitHub Actions
 - 🧠 Continuously improving my **algorithms, system design, and software engineering fundamentals**
 
