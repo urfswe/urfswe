@@ -13,6 +13,12 @@ and AI applications with real-world deployment and infrastructure.
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urfswe" />
+</p>
+
+---
+
 ## 🚀 What I'm Building
 
 - 🤖 **AI-powered applications** with LLMs, RAG, embeddings, and local inference
