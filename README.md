@@ -10,7 +10,9 @@ Currently focused on building scalable backends, modern frontend experiences,
 and AI applications with real-world deployment and infrastructure.
 
 🌐 **[urfswe.com](https://urfswe.com)**  
+
 💼 **[LinkedIn](https://linkedin.com/in/uf-code)**
+
 📄 **[CV](https://github.com/user-attachments/files/31352978/ugur-firat-cv.pdf)**
 
 ---
