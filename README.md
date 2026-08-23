@@ -51,16 +51,6 @@ and AI applications with real-world deployment and infrastructure.
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=urfswe"
-  />
-</p>
-
----
-
 ## 🧩 Featured Projects
 
 ### 🤖 AI Portfolio
