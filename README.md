@@ -100,6 +100,57 @@ Cross-platform mobile applications built with React Native and TypeScript.
 
 ---
 
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urfswe&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=urfswe&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urfswe/urfswe/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urfswe" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urfswe" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urfswe" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urfswe" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urfswe&utcOffset=3" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urfswe&style=for-the-badge&color=blue" />
+</p>
+
+
+---
+
 ## 🎯 Current Focus
 
 ```text
@@ -111,3 +162,10 @@ Software Engineering
 ├── React / React Native
 ├── AI Engineering
 └── DevOps / Infrastructure
+
+
+
+
+
+
+
