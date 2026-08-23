@@ -1,3 +1,4 @@
+
 # Hey, I'm Uğur 👋
 
 ### Software Engineer · Full Stack Web & Mobile · AI Engineering
@@ -10,6 +11,7 @@ and AI applications with real-world deployment and infrastructure.
 
 🌐 **[urfswe.com](https://urfswe.com)**  
 💼 **[LinkedIn](https://linkedin.com/in/uf-code)**
+📄 **[CV](https://github.com/user-attachments/files/31352978/ugur-firat-cv.pdf)**
 
 ---
 
