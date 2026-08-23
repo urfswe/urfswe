@@ -28,13 +28,13 @@ and AI applications with real-world deployment and infrastructure.
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
 </p>
 
 ### DevOps & Infrastructure
