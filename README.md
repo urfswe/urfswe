@@ -1,6 +1,3 @@
-
-# Hey, I'm Uğur 👋
-
 ### Software Engineer · Full Stack Web & Mobile · AI Engineering
 
 I build production-oriented web and mobile applications, with a focus on
