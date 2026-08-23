@@ -51,27 +51,6 @@ and AI applications with real-world deployment and infrastructure.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=urfswe&show_icons=true&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=urfswe&layout=compact"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=urfswe"
-  />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
